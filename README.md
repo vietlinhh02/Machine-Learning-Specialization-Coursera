@@ -1,4 +1,4 @@
-# Machine Learning Specialization Course
+# Machine Learning Specialization Courser
 
 
 ![](/resources/title-head.png)
