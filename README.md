@@ -1,4 +1,4 @@
-# Machine Learning Specialization C
+# Machine Learning Specialization Co
 
 
 ![](/resources/title-head.png)
