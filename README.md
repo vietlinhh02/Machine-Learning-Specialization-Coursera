@@ -1,4 +1,4 @@
-# Machine Learning Sp
+# Machine Learning Spe
 
 
 ![](/resources/title-head.png)
