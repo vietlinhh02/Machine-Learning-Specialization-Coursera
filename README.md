@@ -1,4 +1,4 @@
-# Machine Learning Specializat
+# Machine Learning Specializati
 
 
 ![](/resources/title-head.png)
