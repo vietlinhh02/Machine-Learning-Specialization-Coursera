@@ -1,4 +1,4 @@
-# Machine Learning Special
+# Machine Learning Speciali
 
 
 ![](/resources/title-head.png)
