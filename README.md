@@ -1,4 +1,4 @@
-# Machine Learning Specia
+# Machine Learning Special
 
 
 ![](/resources/title-head.png)
