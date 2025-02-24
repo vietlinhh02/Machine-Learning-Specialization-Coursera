@@ -1,4 +1,4 @@
-# Machine Learning Spec
+# Machine Learning Speci
 
 
 ![](/resources/title-head.png)
