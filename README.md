@@ -1,4 +1,5 @@
-# Machine Learning Specialization Courser
+# Machine Learning Specialization Coursera
+
 
 
 
